@@ -10,5 +10,10 @@
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
+
+<form action="basic" method="POST">
+	ID : <input type="text" /><br>
+	<button type="submit"></button>
+</form>
 </body>
 </html>
